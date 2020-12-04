@@ -17,7 +17,7 @@ Technical leader looking for interesting problems to solve. I expect nothing but
 > Leading teams of engineers.   
 > Many years managing and mentoring other team members.   
 > Confident and enthusiastic public speaker.  
-> NodeJS, PHP.
+> NodeJS, TypeScript, PHP, AWS, REST, microservices, SQL and NoSQL.
 
 #### About me
 
@@ -33,7 +33,7 @@ In my early career I became a successful software engineer working with various 
 
 Throughout the roles i've held i've worked effectively across multi discipline teams and often been tasked with the responsibility to build and maintain relationships with internal and external clients.
 
-More recently i've been leading engineering teams delivering services and features as part of a rapidly growing business. Taking high level requirements, understanding the details and working cross-team to implement a scalable solution.
+More recently i've been leading engineering teams delivering services and features as part of a rapidly growing business. Taking high level requirements, understanding the details and working cross-team to implement scalable solutions.
 
 I have good experience working with MySQL and database optimisation.
 
@@ -45,8 +45,8 @@ In the last 2 years I led a project where we entirely rebuilt how products are c
 
 #### Roles held
 
-__Holiday Extras Shortbreaks, Hythe, Kent__  
-Head of Technology Platform [Apr 2010 - ongoing]  
+__Holiday Extras, Hythe, Kent__  
+Head of Engineering [Apr 2010 - ongoing]  
 Understand and solve business problems using the appropriate technology stack.  Assist the team in furthering their own skills while providing a high standard of solutions architecture seeing initial concept through to production and maintenance.
 
 Worked extensively across business functions bringing together the right people, information and data to build scalable tech.
