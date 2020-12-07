@@ -17,7 +17,7 @@ Technical leader looking for interesting problems to solve. I expect nothing but
 > Leading teams of engineers.   
 > Many years managing and mentoring other team members.   
 > Confident and enthusiastic public speaker.  
-> NodeJS, TypeScript, PHP, AWS, REST, microservices, SQL and NoSQL.
+> NodeJS, TypeScript, PHP, AWS, REST, microservices, SQL, NoSQL.
 
 #### About me
 
